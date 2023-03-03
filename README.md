@@ -36,8 +36,15 @@
 * Testface.java           - пример реализации интерфейса.
 
 ## **Глава 10 Обработка исключений**
+* ChainExcDemo.java       - цепочка исключений.
 * Ex0.java                - применение блоков операторов try и catch.
+* FinallyDemo.java        - применение оператора finally. 
 * HandleError.java        - обработка исключения и продолжение работы программы.
+* MultiCatch.java         - демонстрация многократного перехвата.
 * MultipleCatches.java    - демонстрация применения нескольких операторов catch.
 * NestTry.java            - вложенные оператор try.
 * SuperSubCatch.java      - ошибка в последовательности catch исключений.
+* ThrowDemo.java          - применение оператора throw. 
+* ThrowsDemo.java         - применение оператора throws. 
+
+## **Глава 11 Многопоточное программирование**
