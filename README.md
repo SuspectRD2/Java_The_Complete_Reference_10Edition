@@ -1,5 +1,7 @@
 # Java_The_Complete_Reference_10Edition
 
+## **Q&A.md - ответы на вопросы**
+
 ## **Глава 7 Подробное рассмотрение классов и методов**
 * AccessTest.java         - демонстрация отличия модификаторов public и private.
 * InnerClassDemo.java	  - демонстрация применения внутреннего класса.
